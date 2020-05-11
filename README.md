@@ -1,6 +1,7 @@
 # Tree
 树的创建和遍历方式（递归和非递归）
 
+```cpp
 #include <iostream>
 
 using namespace std;
@@ -80,4 +81,4 @@ void post_order(const TreeNode* Node) {
 }
 
 //二叉树的非递归遍历，也就是使用栈来操作树
-
+```
