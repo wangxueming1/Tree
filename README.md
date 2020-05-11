@@ -6,7 +6,7 @@
 >>>二叉树  
 >>>>平衡二叉树  
 >>>>>满二叉树
-上传图片![]https://github.com/wangxueming1/Tree/blob/master/%E7%8E%8B%E5%AD%A6%E6%98%8E-%E8%AF%81%E4%BB%B6%E7%85%A7.jpg
+上传图片![](https://github.com/wangxueming1/Tree/blob/master/%E7%8E%8B%E5%AD%A6%E6%98%8E-%E8%AF%81%E4%BB%B6%E7%85%A7.jpg)
 
 ## Tree_code
 
